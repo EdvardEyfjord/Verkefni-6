@@ -132,7 +132,7 @@
     background-color: skyblue;
     background-position: 50% 50%;
     background-attachment: fixed;
-    background-image: url(./myndir/header.jpg);
+    background-image: url(header.jpg);
   }
   
   header .content {
